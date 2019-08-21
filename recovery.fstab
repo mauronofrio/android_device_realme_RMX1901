@@ -26,5 +26,5 @@
 /persist       ext4   /dev/block/bootdevice/by-name/persist                      flags=display="Persist"
 
 # Removable storage
-/usb_otg         vfat /dev/block/sda1                    /dev/block/sda          flags=fsflags=utf8;display="USB-Storage";storage;wipeingui;removable
-/sdcard1       auto   /dev/block/mmcblk1p1                                       flags=display="MicroSD";storage;wipeingui;removable
+/usb_otg         vfat /dev/block/sdg1                    /dev/block/sdg          flags=fsflags=utf8;display="USB-Storage";storage;wipeingui;removable
+#/sdcard1       auto   /dev/block/mmcblk1p1                                       flags=display="MicroSD";storage;wipeingui;removable
