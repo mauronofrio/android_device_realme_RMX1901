@@ -15,11 +15,11 @@ Works:
 - Flashing (opengapps, roms, images and so on)
 - Backup/Restore (Needs more testing)
 - USB OTG
+- Touchscreen
 
 
 TO-DO:
 
-- Touchscreen
 - Vibration support
 
 ## Compile
