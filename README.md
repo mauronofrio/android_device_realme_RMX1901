@@ -1,4 +1,4 @@
-# android_device_xiaomi_RMX1901
+# android_device_realme_RMX1901
 For building TWRP for Realme X
 
 TWRP device tree for Realme X
@@ -34,7 +34,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/RMX1901" name="mauronofrio/android_device_realme_RMX1901" remote="github" revision="android-9.0" />
+<project path="device/realme/RMX1901" name="mauronofrio/android_device_realme_RMX1901" remote="github" revision="android-9.0" />
 ```
 
 Finally execute these:
