@@ -53,7 +53,8 @@ fastboot boot out/target/product/RMX1901/recovery.img
 
 ## Other Sources
 
-Kernel Sources: using precompiled stock kernel
+Kernel Sources: https://github.com/arter97/android_kernel_realme_sdm710
 
 ## Thanks
 
+Thanks to @arter97 for the newer kernel with f2fs support
